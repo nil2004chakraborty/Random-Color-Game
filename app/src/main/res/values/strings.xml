@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Color guessing game</string>
+    <string name="page">Page: currentPage</string>
+    <string name="blue">It is blue color</string>
+    <string name="bottom_green">It is Bottom green color</string>
+    <string name="cyan_blue">It is Cyan blue color</string>
+    <string name="green">It is Green color</string>
+    <string name="red">It is Red color</string>
+    <string name="dark_blue">It is Dark blue color</string>
+    <string name="dark_maroon">It is Dark maroon color</string>
+    <string name="hot_pink">It is Hot pink color</string>
+    <string name="lavender">It is Lavender color</string>
+    <string name="magenta">It is Magenta Color</string>
+    <string name="pale_pink">It is Pale pink Color</string>
+    <string name="very_dark_purple">It is Very dark purple color</string>
+    <string name="yellow">It is Yellow Color</string>
+    <string name="next">Next</string>
+    <string name="Intro">Lets see, what color you got!!</string>
+</resources>
